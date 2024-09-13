@@ -21,10 +21,10 @@ function ImageSection() {
         component="hr"
         sx={{
           margin:'0 auto',
-          marginTop: '35rem', // Adjust this value based on the image height
+          marginTop: '35rem', 
           border: 'none',
-          borderBottom: '2px solid #E4E4E4', // Customize thickness and color of the line
-          width: '70%', // The line will be full width below the image
+          borderBottom: '2px solid #E4E4E4', 
+          width: '70%', 
         }}
       />
       
