@@ -16,6 +16,7 @@ function HeroSection() {
         backgroundRepeat: 'no-repeat',
         display: 'flex', 
         justifyContent: 'center', 
+        alignItems:'center',
         color: 'white', 
         textAlign: 'center', 
         flexDirection: 'column',

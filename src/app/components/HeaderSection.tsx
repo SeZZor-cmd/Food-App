@@ -13,7 +13,7 @@ export default function HeaderSection() {
     setValue(newValue);
   };
 
-  const toggleDrawer = (open: boolean) => (event: React.KeyboardEvent | React.MouseEvent) => {
+  const toggleDrawer = (open: boolean) => () => {
     setDrawerOpen(open);
   };
 
